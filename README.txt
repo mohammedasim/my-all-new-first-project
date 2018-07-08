@@ -1,3 +1,3 @@
-# Travel Destinations
+# First Project
 
-A simple app to keep track of destinations I'd like to visit.
+This is the first project that i want to keep
